@@ -1,5 +1,6 @@
 # Todoapp
-Download the code and install required libraries specified in requirements.txt
+Download the code and install required libraries specified in requirements.txt.
+
 Run the commands as:
 
 1. cd Server
